@@ -4,9 +4,10 @@ This is a collaborative project designed specifically for SIE 533 course at the 
 
 ## Contributors
 
-### Add your names here ...
-
--   Garegin Mazmanyan
+- Garegin Mazmanyan
+- [Your Name]
+- [Your Name]
+- [Your Name]
 
 ## Setup Instructions
 
@@ -41,9 +42,9 @@ This is a collaborative project designed specifically for SIE 533 course at the 
     ```
 
 2. To create your own models:
-    - Create a new Jupyter notebook
+    - Create a new Jupyter notebook inside the models/ folder
     - Experiment with your own models by tweaking or tuning parameters
-    - Important: Do not modify the `bases.ipynb` or any other existing files
+    - Important: Do not modify other jupiter notebooks that are not created by you including the `bases.ipynb` or any other existing files
 
 ## Project Structure
 
