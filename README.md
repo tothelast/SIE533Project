@@ -4,10 +4,24 @@ This is a collaborative project designed specifically for SIE 533 course at the 
 
 ## Contributors
 
-- Garegin Mazmanyan
-- [Your Name]
-- [Your Name]
-- [Your Name]
+-   Garegin Mazmanyan
+-   [Your Name]
+-   [Your Name]
+-   [Your Name]
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```
+    git clone https://github.com/username/SIE533Project.git
+    cd SIE533Project
+    ```
+
+2. Pull the latest changes:
+    ```
+    git pull origin main
+    ```
 
 ## Setup Instructions
 
